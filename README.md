@@ -35,9 +35,9 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## 📝 Problem Statement 2: Charts Requirement
 
-The dashboard should include various charts to visually represent sales data and trends.
+The dashboard  include various charts to visually represent sales data and trends.
 
-- YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
+- YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis represent weeks, and the Y-axis  show the total sales amount.
 - YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 - YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
 - YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
