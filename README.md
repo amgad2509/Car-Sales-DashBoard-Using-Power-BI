@@ -1,7 +1,6 @@
 # 📌 Car Sales Dashboard Project
 
 ## 🧠 Background
-
 The company is a car dealership that sells various car models. To effectively track and analyze our sales performance, we require a comprehensive Car Sales Dashboard in Power BI.
 
 ## 🦪 Objective
